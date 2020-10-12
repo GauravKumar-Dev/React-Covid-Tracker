@@ -6,7 +6,7 @@
 
 - ### `npm install`
 
-- ### `npm run`
+- ### `npm start`
 
 
 Live Preview (https://covid-cwg.netlify.com)
